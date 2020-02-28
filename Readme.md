@@ -60,3 +60,4 @@ You should have a server up and running on your localhost at Port 8000
 -- Creating Superuser
 Create a new user by calling the following endpoint:  /user/create/ with type as admin.
 Then  Go to localhost:8000/admin on browser and you should be able to login as admin
+this ia temp ommit
